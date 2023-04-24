@@ -1,0 +1,74 @@
+array methds
+events 
+regular expressions 
+
+
+//////////////////////////////////////////////////////////
+ui/ux
+
+ux      is not equal     ui
+research             sketching
+wire framing          layout
+interation             visual design
+scenarious              prototyping
+
+
+
+stages in design thinking
+
+empathize
+define
+ideate
+prototype
+test
+implement
+
+
+
+figma
+adobe photoshop
+adobe illustator
+
+
+raster ad vector 
+
+raster                         vector
+pixel-based                   mathematical curves and lines
+photographs included          logos,type and geometric designs included
+more acceesible and shareable     less accessiable and shareable
+large file size                Smaller file size
+
+
+
+Hicks law
+
+the more choices you present your users with,the 
+longer it will take them to reach a decision.
+
+fitts law
+fast movements +small targets results in more errors
+
+jakobs law
+
+beacuse users spend most of their time on other sites,
+they expect your site to work in  the same way as other sites they've
+already visited.
+
+millers law
+humans can only hold about seven pieces of information in their memory at 
+a time.more than that and they could be overwhelmed.
+
+
+parkinson's law
+people will keep working on a task until their allotted time is reached
+
+
+colors that implies:
+red energy strenght power courage
+blue loyalty trust stability confidence
+black strength,wealth,style,elegance
+orange excitement fun haste action
+purple luxury creativity mystery ambition
+green  harmony safety balance growth
+yellow cheerfulness happiness joy optimism
+pink caring hope sensitivity friendship 
